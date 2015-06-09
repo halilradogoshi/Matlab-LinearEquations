@@ -1,7 +1,7 @@
 # Matlab - Linear Equations
 Pragmatic examples on how to solve simultaneous linear equations with Matlab. The project includes methods for graphical, symbolic and numeric solutions to simultaneous linear equations.
 
-The user will have to input six constants (a1,b1,a2,b2,c1,c2) for the simulatneous linear equation:
+The user will have to input six constants (a1,b1,a2,b2,c1,c2) for the simulatneous linear equations:
 
 **a1x + b1y = c1  
 a2x + b2y = c2**
